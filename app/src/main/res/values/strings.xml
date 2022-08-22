@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My retro</string>
+    <string name="textview">TextView</string>
+    <string name="textvie">TextVie</string>
+</resources>
